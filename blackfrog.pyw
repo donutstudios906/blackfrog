@@ -18,8 +18,8 @@ import win32api
 import win32gui_struct
 
 # ------------- KONFIG -------------
-FRAGE        = "Ich bin überall, aber man kann mich nie berühren. Was bin ich?"
-ANTWORT      = "der gedanke"
+FRAGE        = "your question"
+ANTWORT      = "your answer"
 MAX_VERSUCHE = 100
 REG_PATH     = r"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
 REG_NAME     = "Shell"
@@ -199,3 +199,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
