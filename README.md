@@ -16,6 +16,7 @@ unser team übernimmt keine haftung bei sach oder personschäden bei ausführen 
 Dieses Programm verändert System-Registry-Einstellungen und kann Rechner unbrauchbar machen. Veröffentlichung, Verbreitung oder Einsatz auf fremden Systemen **ohne ausdrückliche Zustimmung** ist illegal und kann strafrechtlich verfolgt werden. Nutze dieses Repo **nur** in einer VM, die du selbst kontrollierst.
 
 # installation
+natürlich musst du python auf dem pc haben
 um zu starten musst du den installer skript ausführen (import pywin32.py)
 nun musst du im code ''your question'' und ''your answer'' durch deine fragen und antworten austauschen
 dann kannst du blackfrog starten
